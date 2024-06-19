@@ -4,10 +4,15 @@ This repository is for introduction of the 'Mutative Chroman' game we made in th
 All Rights Reserved! Please read the license.
 
 Contributors to the project:
+
 https://github.com/Semtomer - Tolga YILMAZ
+
 https://github.com/Xwatynn - Bilge Begüm KAYAYERLİ
+
 https://github.com/Ktyprk - Kutay PERK
+
 https://github.com/chumchune - Oğuz Emre MUTLU
+
 
 Game Video
 https://youtu.be/-tjKME1gStA
