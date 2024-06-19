@@ -47,3 +47,4 @@ Double jumping ---> Space + Space (After the second shop dialogue)
 Dashing ---> Left Shift (After the second shop dialogue)
 Air Dashing ---> Space + Left Shift (After the second shop dialogue)
 Reset Player Location ---> R
+
